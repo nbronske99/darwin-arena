@@ -1,0 +1,1 @@
+I had this idea for AI training with agents competing in a Darwinian competition of survival such as the fiction ones in hunger games and squid game (Admittedly I have not actually seen the latter). I am using AI tools to help generate the MVP and even some ideas along the way. I will do my best to label where the ideas are human vs AI generated.
